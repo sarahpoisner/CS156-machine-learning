@@ -1,1 +1,1 @@
-# CS156-machine-learning
+# CS156: Machine Learning for Science and Profit
