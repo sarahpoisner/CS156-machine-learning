@@ -9,7 +9,7 @@ I used loan application data from LendingClub on [Kaggle](https://www.kaggle.com
 I used Yosimite Village yearly temperature data to create Ridge Regression models with Radial Basis Functions to capture seasonal and daily temperature variations and tested the models' performance on testing data.
 
 ## Assignment 4 - Logistic Regression with PCA and LDA Classification
-Here, I made four different classification models using Scikit-Learn to distinguish between images of shirts and jerseys. The models used are: Logistic Regression, Logistic Regression with PCA (Principal Component Analysis), Logistic Regression with 2-D LDA (Linear Discriminant Analysis). 
+Here, I made four different classification models using Scikit-Learn to distinguish between images of shirts and jerseys (data from [ImageNet](https://image-net.org/index.php)). The models used are: Logistic Regression, Logistic Regression with PCA (Principal Component Analysis), Logistic Regression with 2-D LDA (Linear Discriminant Analysis). 
 
 
 ## Assignment 5 - SVM and Neural Network Classification
