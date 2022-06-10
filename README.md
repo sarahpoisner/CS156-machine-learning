@@ -7,3 +7,10 @@ I used loan application data from LendingClub on [Kaggle](https://www.kaggle.com
 
 ## Assignment 3 - Yosimite Temperature Model
 I used Yosimite Village yearly temperature data to create Ridge Regression models with Radial Basis Functions to capture seasonal and daily temperature variations and tested the models' performance on testing data.
+
+## Assignment 4 - Logistic Regression with PCA and LDA Classification
+Here, I made four different classification models using Scikit-Learn to distinguish between images of shirts and jerseys. The models used are: Logistic Regression, Logistic Regression with PCA (Principal Component Analysis), Logistic Regression with 2-D LDA (Linear Discriminant Analysis). 
+
+
+## Assignment 5 - SVM and Neural Network Classification
+Here, I created 4 more classification models with Scikit-Learn and Tensorflow for the shirts vs. jerseys problem: Linear SVM (Support Vector Machine), Polynomial SVM, RBF (Radial Basis Function) SVM, VGG16 Neural Network (with Tensorflow).
